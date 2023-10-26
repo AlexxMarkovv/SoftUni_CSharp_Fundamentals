@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS2012: Cannot open 'C:\Users\Lenovo\source\repos\Fundamentals ARRAYS\19. Encrypt, Sort and Print Array\obj\Debug\net6.0\refint\19. Encrypt, Sort and Print Array.dll' for writing -- 'Access to the path 'C:\Users\Lenovo\source\repos\Fundamentals ARRAYS\19. Encrypt, Sort and Print Array\obj\Debug\net6.0\refint\19. Encrypt, Sort and Print Array.dll' is denied.'
+dotnet_diagnostic.CS2012.severity = none
